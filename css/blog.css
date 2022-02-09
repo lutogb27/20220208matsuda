@@ -85,6 +85,20 @@ nav ul {
   margin-top: 20px;
 }
 
+.blog-item:nth-child(3n) {
+  margin-right: 0;
+}
+
+.blog-item-date {
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.blog-item-ttl {
+  font-weight: bold;
+  font-size: 18px;
+}
+
 img {
   width: 100%;
   height: auto;
